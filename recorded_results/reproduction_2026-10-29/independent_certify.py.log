@@ -1,0 +1,23 @@
+m 0
+m 30
+m 60
+m 90
+m 120
+m 150
+all_independent_intervals_inside_archived_intervals True
+all_independent_tail_bounds_below_archived_bounds True
+minimum_archived_tail_energy_slack 1.848365718792877e-05
+method independent Decimal trig/CC/Legendre; direct polynomial evaluation; direct 2048-term DFT
+v0_lower 0.6914214778334691
+c1_center -0.6914215317532924
+c1_radius 5.3919823283155586e-08
+resolved_D_upper 6.647894353998339e-05
+tail_upper 5.185680015812362e-05
+D_total_upper 0.00011833574369810702
+v_cert_lower 0.691275623770854
+max_supplied_Legendre_error 9.344748796825617e-12
+max_fraction_of_supplied_Legendre_allowance 0.003073930525271585
+max_original_center_discrepancy 2.220446049250313e-16
+independent_centers_in_original_intervals True
+error_constants {'response': 2e-08, 'direct_DFT': np.float64(1.2666370614359175e-07), 'energy': np.float64(5.036548296009152e-07), 'energy_sum_guard': 1e-09, 'orbit_overlap_guard': 1e-11}
+PASS: independently reconstructed conservative bounds imply exact manuscript bound 6914213000/10002162779 0.6912717931882401

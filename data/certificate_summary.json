@@ -1,0 +1,16 @@
+{
+  "claim": "v_c^proj > 0.6910",
+  "recommended_manuscript_claim": "v_c^proj > 0.6912",
+  "stored_enclosure_v_cert_lower": 0.6912718217831876,
+  "v0_lower": 0.6914213138438534,
+  "D_total_upper": 0.0001212880269145556,
+  "K_upper": "1783/1000",
+  "shortened_v0_lower": "6914213/10000000",
+  "shortened_D_upper": "1213/10000000",
+  "exact_shortened_visibility": "6914213000/10002162779",
+  "exact_shortened_visibility_decimal": 0.6912717931882401,
+  "KG3_upper_from_shortened_bound": "10002162779/6914213000",
+  "KG3_upper_decimal": 1.4466090036566708,
+  "harmonic_cutoff": 151,
+  "note": "Exact response and shape-range checks regenerate from raw candidate. Harmonic theorem arithmetic is checked from the stored outward coefficient/tail enclosures; the expensive raw harmonic-enclosure generator is not included in this bundle."
+}

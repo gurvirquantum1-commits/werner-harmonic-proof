@@ -1,0 +1,7 @@
+c1024 {'outside_count': 0, 'first_indices': []}
+s1024 {'outside_count': 0, 'first_indices': []}
+c2048 {'outside_count': 0, 'first_indices': []}
+s2048 {'outside_count': 0, 'first_indices': []}
+generated4096_c {'outside_count': 0, 'first_indices': [], 'max_violation': '0'}
+generated4096_s {'outside_count': 0, 'first_indices': [], 'max_violation': '0'}
+weights sum 1.9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999 seconds 3.4620399475097656

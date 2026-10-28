@@ -1,0 +1,6 @@
+{
+  "3001_response_samples_max_100digit_error": 3.5406039025364514e-15,
+  "dipole_via_cartesian_moments": -0.6914215317532925,
+  "dipole_via_harmonics": -0.6914215317532924,
+  "dipole_discrepancy": 1.1102230246251565e-16
+}

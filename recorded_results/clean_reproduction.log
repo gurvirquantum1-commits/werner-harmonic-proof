@@ -1,0 +1,17 @@
+RUN verify_all.py
+PASS verify_all.py
+RUN generate_quadrature_tables.py
+PASS generate_quadrature_tables.py
+RUN independent_tables.py
+PASS independent_tables.py
+RUN independent_legendre.py
+PASS independent_legendre.py
+RUN independent_direct_compute.py
+PASS independent_direct_compute.py
+RUN independent_certify.py
+PASS independent_certify.py
+RUN independent_crosschecks.py
+PASS independent_crosschecks.py
+Independent conservative visibility lower bound: 0.691275623770854
+Manuscript exact shortened bound: 0.6912717931882401
+ALL INDEPENDENT AUDIT CHECKS PASSED

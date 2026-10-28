@@ -1,0 +1,61 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "stages": [
+    {
+      "script": "verify_all.py",
+      "returncode": 0,
+      "seconds": 13.238
+    },
+    {
+      "script": "generate_quadrature_tables.py",
+      "returncode": 0,
+      "seconds": 0.366
+    },
+    {
+      "script": "independent_tables.py",
+      "returncode": 0,
+      "seconds": 4.861
+    },
+    {
+      "script": "independent_legendre.py",
+      "returncode": 0,
+      "seconds": 66.415
+    },
+    {
+      "script": "independent_direct_compute.py",
+      "returncode": 0,
+      "seconds": 40.825
+    },
+    {
+      "script": "independent_certify.py",
+      "returncode": 0,
+      "seconds": 9.227
+    },
+    {
+      "script": "independent_crosschecks.py",
+      "returncode": 0,
+      "seconds": 0.583
+    },
+    {
+      "script": "compute_harmonic_data_numpy.py",
+      "returncode": 0,
+      "seconds": 123.653
+    },
+    {
+      "script": "certify_harmonics_raw.py",
+      "returncode": 0,
+      "seconds": 15.213
+    },
+    {
+      "script": "verify_regenerated_certificate.py",
+      "returncode": 0,
+      "seconds": 0.089
+    }
+  ],
+  "passed": true,
+  "seconds": 274.477,
+  "independent_visibility_lower": 0.691275623770854,
+  "exact_shortened_bound": "6914213000/10002162779"
+}
